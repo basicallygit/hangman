@@ -7,3 +7,5 @@ git clone https://github.com/basicallygit/hangman
 cd hangman
 cargo run
 ```
+
+![alt text](https://i.imgur.com/kFBvhZX.png)
